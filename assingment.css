@@ -1,0 +1,133 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    color: blue;
+    font-size: 50px;
+    margin-left: 42%;
+}
+
+div{
+    width: 700px;
+    height: 665px;
+    border: 2px solid black;
+    margin-left: 25%;
+    box-shadow: 3px 3px 3px 3px red;
+}
+
+#id1{
+    color: black;
+    font-size: 40px;
+    margin-left: 23%;
+}
+
+p{
+    font-size: x-large;
+    margin-left: 35%;
+}
+
+#firstname{
+    padding: 10px;
+    margin-left: 20px;
+    width: 290px;
+}
+
+#secondname{
+    padding: 10px;
+    margin-left: 20px;
+    width: 290px;
+}
+
+#mobile{
+    padding: 10px;
+    width: 590px;
+    margin-left: 35px;
+}
+
+#password{
+    padding: 10px;
+    width: 590px;
+    margin-left: 35px;
+}
+
+#dob{
+    margin-left: 20px;
+    font-size: large;
+}
+
+#date{
+    padding: 10px;
+    margin-left: 20px;
+    width: 150px;
+}
+
+#month{
+    padding: 10px;
+    margin-left: 20px;
+    width: 200px;
+}
+
+#year{
+    padding: 10px;
+    margin-left: 20px;
+    width: 200px;
+}
+
+#gender{
+    margin-left: 20px;
+    font-size: large;
+}
+
+#malegender{
+    width: 70px;
+    height: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    margin-left: 50px;
+    float: left;
+}
+
+#femalegender{
+    width: 70px;
+    height: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    float: left;
+}
+
+#othergender{
+    width: 60px;
+    height: 20px;
+    padding: 10px;
+    border: 2px solid black;
+   float: left;
+}
+
+#footer{
+    font-size: large;
+    margin-left: 20px;
+}
+
+#button{
+    padding: 10px;
+    width: 150px;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 37%;
+    box-shadow: 2px 2px 2px magenta;
+}
+
+a{
+    font-size: 20px;
+    margin-left: 33%;
+}
+
+#button:hover{
+    transform: scale(1.2);
+    transition: all 1s;
+}
